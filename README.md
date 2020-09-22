@@ -1,7 +1,7 @@
 ### Hello! 👋
 - 🔭 I’m currently working on Flutter applications with 💙.
 
-- 📫 How to reach me: [furkankurt.com.tr](https://www.furkankurt.com.tr)
+- 📁 View my portfolio: [furkankurt.com.tr](https://www.furkankurt.com.tr)
 
 ![FurkanKURT's GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkankurt&show_icons=true&theme=cobalt)
 
