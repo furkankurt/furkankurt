@@ -14,7 +14,7 @@
 
 ### 🤝🏻 Social
 
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/fkurt97" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://fkurt97.medium.com" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
 <a href="https://stackoverflow.com/users/2911940/furkankurt" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
