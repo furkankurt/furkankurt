@@ -1,5 +1,5 @@
 ### Hello, I'm Furkan! 👋
-- 🔭 I’m currently working on Flutter applications with 💙.
+- 🔭 I’m currently working on Flutter applications with 💙
 
 - 📁 View my portfolio: [furkankurt.com.tr](https://www.furkankurt.com.tr)
 
