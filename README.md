@@ -7,8 +7,8 @@
 
 <p align="center">
 <a href="https://github.com/furkankurt">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=furkankurt&show_icons=true&theme=cobalt" alt="furkankurt"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkankurt&layout=compact&hide=Python,c%2B%2B,makefile&langs_count=10&theme=cobalt" alt="furkankurt"/>
+  <img height="180em" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=furkankurt&show_icons=true&theme=cobalt" alt="furkankurt"/>
+  <img height="180em" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=furkankurt&layout=compact&hide=Python,c%2B%2B,makefile&langs_count=10&theme=cobalt" alt="furkankurt"/>
 </a>
 </p>
 
